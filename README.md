@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thomas1509&label=Profile%20views&color=0e75b6&style=flat" alt="thomas" /> </p>
 
 - 🌱 I’m currently learning **.NET**
-
-- 📫 You can reach me at **trl.happe@outlook.com**
-
+- 
 <br>
 
 <h3 align="left">Connect with me:</h3>
